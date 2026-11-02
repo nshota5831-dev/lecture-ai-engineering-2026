@@ -1,0 +1,16 @@
+{
+  "recomputed_rates": {
+    "before": {
+      "format_rate": 0.14285714285714285,
+      "content_rate": 0.0,
+      "both_rate": 0.0
+    },
+    "after": {
+      "format_rate": 1.0,
+      "content_rate": 1.0,
+      "both_rate": 1.0
+    }
+  },
+  "test_questions_match": true,
+  "source": "Colabの保存済みテキスト出力。実行時ファイルの直接ダウンロードではない。"
+}
