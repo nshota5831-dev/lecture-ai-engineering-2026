@@ -1,0 +1,140 @@
+{
+  "何も思いついていない状態でも参加可能ですか": {
+    "needs_review": false,
+    "must_include": [
+      "参加",
+      "サポート"
+    ]
+  },
+  "事業案がない人もプログラムに参加して支援を受けられますか": {
+    "needs_review": false,
+    "must_include": [
+      "参加",
+      "サポート"
+    ]
+  },
+  "テーマが未決定でも企画を考える支援を受けられますか": {
+    "needs_review": false,
+    "must_include": [
+      "参加",
+      "サポート"
+    ]
+  },
+  "選考で落選したら改めてエントリーできますか": {
+    "needs_review": false,
+    "must_include": [
+      "再エントリー"
+    ]
+  },
+  "審査で不合格になったアイデアは再度提出できますか": {
+    "needs_review": false,
+    "must_include": [
+      "再エントリー"
+    ]
+  },
+  "落選後の再申請は認められますか": {
+    "needs_review": false,
+    "must_include": [
+      "再エントリー"
+    ]
+  },
+  "VDSやコスト表の記入方法が分からないときはどうしますか": {
+    "needs_review": false,
+    "must_include": [
+      "相談",
+      "VDS"
+    ]
+  },
+  "VDSの作成で困った際に動画や相談先はありますか": {
+    "needs_review": false,
+    "must_include": [
+      "相談",
+      "VDS"
+    ]
+  },
+  "事業案のVDSやコストシートの記入を相談できますか": {
+    "needs_review": false,
+    "must_include": [
+      "相談",
+      "VDS"
+    ]
+  },
+  "複数メンバーの名前と所属はどこに記載しますか": {
+    "needs_review": false,
+    "must_include": [
+      "代表者",
+      "アサイニー"
+    ]
+  },
+  "代表者以外の氏名はどの書類のどこに書きますか": {
+    "needs_review": false,
+    "must_include": [
+      "代表者",
+      "アサイニー"
+    ]
+  },
+  "共同提案の代表者情報と他の参加者の記載先を教えてください": {
+    "needs_review": false,
+    "must_include": [
+      "代表者",
+      "アサイニー"
+    ]
+  },
+  "採択後すぐ実証に着手できない場合の選択肢は何ですか": {
+    "needs_review": false,
+    "must_include": [
+      "調整",
+      "軽減"
+    ]
+  },
+  "審査を通過しても時間が取れない場合、開始時期や関与はどう調整しますか": {
+    "needs_review": false,
+    "must_include": [
+      "調整",
+      "軽減"
+    ]
+  },
+  "ピッチ通過後すぐ動けない場合、検証の進め方はどうなりますか": {
+    "needs_review": false,
+    "must_include": [
+      "調整",
+      "軽減"
+    ]
+  },
+  "審査員は誰ですか": {
+    "needs_review": true,
+    "must_include": [
+      "確認"
+    ]
+  },
+  "検証に使える予算はいくらですか": {
+    "needs_review": true,
+    "must_include": [
+      "確認"
+    ]
+  },
+  "選考は年間何回実施しますか": {
+    "needs_review": true,
+    "must_include": [
+      "確認"
+    ]
+  },
+  "応募後に交通費は支給されますか": {
+    "needs_review": true,
+    "must_include": [
+      "確認"
+    ]
+  },
+  "応募用資料のページ数に上限はありますか": {
+    "needs_review": true,
+    "must_include": [
+      "確認"
+    ]
+  },
+  "検証期間は必ず3か月ですか": {
+    "needs_review": true,
+    "must_include": [
+      "確認"
+    ]
+  }
+}

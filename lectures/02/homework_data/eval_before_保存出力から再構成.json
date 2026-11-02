@@ -1,0 +1,149 @@
+[
+  {
+    "question": "何も思いついていない状態でも参加可能ですか",
+    "raw": "{\"answer\": \"はい\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "事業案がない人もプログラムに参加して支援を受けられますか",
+    "raw": "{\"answer\": \"はい\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "テーマが未決定でも企画を考える支援を受けられますか",
+    "raw": "{\"answer\": \"はい\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "選考で落選したら改めてエントリーできますか",
+    "raw": "{\"answer\": \"再エントリーできます\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "審査で不合格になったアイデアは再度提出できますか",
+    "raw": "{\"answer\": \"再エントリーできます\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "落選後の再申請は認められますか",
+    "raw": "{\"answer\": \"再エントリーできます\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "VDSやコスト表の記入方法が分からないときはどうしますか",
+    "raw": "{\"answer\": \"運営に相談できます\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "VDSの作成で困った際に動画や相談先はありますか",
+    "raw": "{\"answer\": \"VDS の作成動画や相談先は、運営に相談できます。\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "事業案のVDSやコストシートの記入を相談できますか",
+    "raw": "{\"answer\": \"VDS やコストシートの書き方は運営に相談できます。\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "複数メンバーの名前と所属はどこに記載しますか",
+    "raw": "{\"answer\": \"提出するコストシートのアサイニー欄に加えます\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "代表者以外の氏名はどの書類のどこに書きますか",
+    "raw": "{\"answer\": \"提出するコストシートのアサイニー欄に書きます\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "共同提案の代表者情報と他の参加者の記載先を教えてください",
+    "raw": "{\"answer\": \"共同提案の代表者情報と他の参加者の記載先は、提出するコストシートのアサイニー欄に記載します。\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "採択後すぐ実証に着手できない場合の選択肢は何ですか",
+    "raw": "{\"answer\": \"所属マネージャーと開始時期を調整する\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "審査を通過しても時間が取れない場合、開始時期や関与はどう調整しますか",
+    "raw": "{\"answer\": \"所属マネージャーと開始時期を調整する\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "ピッチ通過後すぐ動けない場合、検証の進め方はどうなりますか",
+    "raw": "{\"answer\": \"確認が必要\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "審査員は誰ですか",
+    "raw": "{\"answer\": \"審査員は不明です\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "検証に使える予算はいくらですか",
+    "raw": "{\"answer\": \"確認が必要\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "選考は年間何回実施しますか",
+    "raw": "{\"answer\": \"年間 1 回\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "応募後に交通費は支給されますか",
+    "raw": "{\"answer\": \"否\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "応募用資料のページ数に上限はありますか",
+    "raw": "{\"answer\": \"なし\"}",
+    "format_ok": false,
+    "content_ok": false,
+    "both_ok": false
+  },
+  {
+    "question": "検証期間は必ず3か月ですか",
+    "raw": "{\"answer\": \"否\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": false,
+    "both_ok": false
+  }
+]

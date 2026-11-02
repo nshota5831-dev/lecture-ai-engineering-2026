@@ -1,0 +1,149 @@
+[
+  {
+    "question": "何も思いついていない状態でも参加可能ですか",
+    "raw": "{\"answer\": \"アイデアがなくても参加できます。アイデアを生み出すためのサポートを受けられます。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "事業案がない人もプログラムに参加して支援を受けられますか",
+    "raw": "{\"answer\": \"アイデアがなくても参加できます。アイデアを生み出すためのサポートを受けられます。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "テーマが未決定でも企画を考える支援を受けられますか",
+    "raw": "{\"answer\": \"アイデアがなくても参加できます。アイデアを生み出すためのサポートを受けられます。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "選考で落選したら改めてエントリーできますか",
+    "raw": "{\"answer\": \"審査に落ちた場合も再エントリーできます。再挑戦を推奨しています。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "審査で不合格になったアイデアは再度提出できますか",
+    "raw": "{\"answer\": \"審査に落ちた場合も再エントリーできます。再挑戦を推奨しています。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "落選後の再申請は認められますか",
+    "raw": "{\"answer\": \"審査に落ちた場合も再エントリーできます。再挑戦を推奨しています。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "VDSやコスト表の記入方法が分からないときはどうしますか",
+    "raw": "{\"answer\": \"VDSやコストシートの書き方は運営に相談できます。VDSの解説動画もあります。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "VDSの作成で困った際に動画や相談先はありますか",
+    "raw": "{\"answer\": \"VDSやコストシートの書き方は運営に相談できます。VDSの解説動画もあります。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "事業案のVDSやコストシートの記入を相談できますか",
+    "raw": "{\"answer\": \"VDSやコストシートの書き方は運営に相談できます。VDSの解説動画もあります。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "複数メンバーの名前と所属はどこに記載しますか",
+    "raw": "{\"answer\": \"チームで起案する場合、代表者1名の所属部署と氏名を記載し、その他のメンバーは提出するコストシートのアサイニー欄に加えます。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "代表者以外の氏名はどの書類のどこに書きますか",
+    "raw": "{\"answer\": \"チームで起案する場合、代表者1名の所属部署と氏名を記載し、その他のメンバーは提出するコストシートのアサイニー欄に加えます。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "共同提案の代表者情報と他の参加者の記載先を教えてください",
+    "raw": "{\"answer\": \"チームで起案する場合、代表者1名の所属部署と氏名を記載し、その他のメンバーは提出するコストシートのアサイニー欄に加えます。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "採択後すぐ実証に着手できない場合の選択肢は何ですか",
+    "raw": "{\"answer\": \"審査通過後すぐに検証できない場合、所属マネージャーと開始時期を調整する、または他のメンバーによる対応が可能な場合などは起案者の関与を軽減して実施する対応を予定しています。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "審査を通過しても時間が取れない場合、開始時期や関与はどう調整しますか",
+    "raw": "{\"answer\": \"審査通過後すぐに検証できない場合、所属マネージャーと開始時期を調整する、または他のメンバーによる対応が可能な場合などは起案者の関与を軽減して実施する対応を予定しています。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "ピッチ通過後すぐ動けない場合、検証の進め方はどうなりますか",
+    "raw": "{\"answer\": \"審査通過後すぐに検証できない場合、所属マネージャーと開始時期を調整する、または他のメンバーによる対応が可能な場合などは起案者の関与を軽減して実施する対応を予定しています。\", \"needs_review\": false}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "審査員は誰ですか",
+    "raw": "{\"answer\": \"このFAQには記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "検証に使える予算はいくらですか",
+    "raw": "{\"answer\": \"このFAQには記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "選考は年間何回実施しますか",
+    "raw": "{\"answer\": \"このFAQには記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "応募後に交通費は支給されますか",
+    "raw": "{\"answer\": \"このFAQには記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "応募用資料のページ数に上限はありますか",
+    "raw": "{\"answer\": \"このFAQには記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  },
+  {
+    "question": "検証期間は必ず3か月ですか",
+    "raw": "{\"answer\": \"このFAQには記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+    "format_ok": true,
+    "content_ok": true,
+    "both_ok": true
+  }
+]
