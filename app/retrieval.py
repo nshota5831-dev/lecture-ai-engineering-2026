@@ -5,6 +5,7 @@ import json
 import math
 import re
 import sqlite3
+from collections.abc import Callable
 from contextlib import contextmanager
 from collections import defaultdict, deque
 from pathlib import Path
@@ -124,12 +125,17 @@ def open_index(path: Path):
         db.close()
 
 
-def search(query: str) -> list[dict]:
+def search(
+    query: str,
+    *,
+    index_path: Path | None = None,
+    embedder: Callable[[str, str], list[float]] | None = None,
+) -> list[dict]:
     """質問を埋め込み、近いページを最大RAG_TOP_K件返す。"""
     if not isinstance(query, str) or not query.strip():
         raise ValueError("検索語が空です。")
-    with open_index(RAG_DB) as db:
-        vector = embed_text(query.strip(), "RETRIEVAL_QUERY")
+    with open_index(index_path if index_path is not None else RAG_DB) as db:
+        vector = (embedder or embed_text)(query.strip(), "RETRIEVAL_QUERY")
         rows = db.execute("""
             SELECT page_id, document_id, lecture, document_title, section, title, page, content,
                    vec_distance_cosine(embedding, ?) AS distance
